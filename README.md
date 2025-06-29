@@ -64,6 +64,11 @@ Adventure Works is a retail company selling sporting goods, primarily focused on
 
 ---
 
+## 🧠 Project Motivation
+
+Sales data analysis is crucial for strategic planning in retail businesses. This project simulates real-world scenarios where executives need insights into product performance, customer behavior, and market trends to drive growth and profitability.
+
+---
 ## 🛠️ Technology Stack
 
 - **Power BI Desktop (.pbix)**
