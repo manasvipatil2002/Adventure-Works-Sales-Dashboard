@@ -4,6 +4,11 @@
 A professional Power BI project analyzing the sales data of the fictional Adventure Works company. The dashboard provides insights into customer segments, product performance, sales trends, and regional contributions to support strategic decision-making.
 
 ---
+<p align="center">
+  <img width="700" height="470" src="![image 1](https://github.com/user-attachments/assets/8762b677-9166-47a4-83cd-a71b7b3ea2c9)
+">
+</p> 
+
 
 ## 📌 Project Overview
 
@@ -88,8 +93,14 @@ Sales data analysis is crucial for strategic planning in retail businesses. This
 ---
 
 ## 📎 Screenshots
+<p align="center">
+  <img width="700" height="470" src="pizza image.png">
+</p> 
 
-> 📌 Add screenshots or GIFs of your dashboard here to visually showcase your work.
+<p align="center">
+  <img width="700" height="470" src="pizza image.png">
+</p> 
+
 
 ---
 
