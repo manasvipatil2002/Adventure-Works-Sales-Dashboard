@@ -5,10 +5,8 @@ A professional Power BI project analyzing the sales data of the fictional Advent
 
 ---
 <p align="center">
-  <img width="700" height="470" src="![image 1](https://github.com/user-attachments/assets/8762b677-9166-47a4-83cd-a71b7b3ea2c9)
-">
+  <img width="700" height="470" src="">
 </p> 
-
 
 ## 📌 Project Overview
 
