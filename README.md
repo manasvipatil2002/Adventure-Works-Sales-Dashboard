@@ -91,12 +91,14 @@ Sales data analysis is crucial for strategic planning in retail businesses. This
 ---
 
 ## 📎 Screenshots
+**Dashboard**
 <p align="center">
-  <img width="700" height="470" src="pizza image.png">
+  <img width="700" height="470" src="dashboard.JPG">
 </p> 
 
+**Continent map**
 <p align="center">
-  <img width="700" height="470" src="pizza image.png">
+  <img width="700" height="470" src="">
 </p> 
 
 
