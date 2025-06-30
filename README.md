@@ -1,7 +1,7 @@
 
 # 📊 Adventure Works Sales Dashboard
 
-A professional Power BI project analyzing the sales data of the fictional Adventure Works company. The dashboard provides insights into customer segments, product performance, sales trends, and regional contributions to support strategic decision-making.
+A professional Power BI project analyzing the sales data of the fictional Adventure Works company. The dashboard provides insights into customer segments, product performance, sales trends, and regional contributions to support strategic decision-making. 
 
 ---
 <p align="center">
