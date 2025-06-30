@@ -103,12 +103,11 @@ Sales data analysis is crucial for strategic planning in retail businesses. This
 
 **Schema**
 <p align="center">
-  <img width="700" height="470" src="">
+  <img width="700" height="470" src="Img3.png">
 </p> 
 
 
 
 ---
 
-## 📚 Folder Structure
 
