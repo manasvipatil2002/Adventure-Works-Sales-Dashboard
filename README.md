@@ -101,6 +101,12 @@ Sales data analysis is crucial for strategic planning in retail businesses. This
   <img width="850" height="470" src="map.JPG">
 </p> 
 
+**Schema**
+<p align="center">
+  <img width="700" height="470" src="">
+</p> 
+
+
 
 ---
 
