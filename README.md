@@ -103,12 +103,12 @@ Sales data analysis is crucial for strategic planning in retail businesses. This
 
 **Schema**
 <p align="center">
-  <img width="700" height="470" src="Img3.png">
+  <img width="850" height="470" src="Img3.png">
 </p> 
 
 ---
-
-✅ Conclusion
+**
+✅ Conclusion**
 The Adventure Works Sales Dashboard provides a comprehensive and interactive view of the company’s sales performance across regions, products, and customer segments. Through insightful visualizations and data-driven KPIs, the dashboard uncovers critical trends and patterns that enable informed decision-making.
 
 Key takeaways from the analysis include:
