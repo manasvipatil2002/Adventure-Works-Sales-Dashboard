@@ -81,15 +81,6 @@ Sales data analysis is crucial for strategic planning in retail businesses. This
 
 ---
 
-## 🚀 How to Use
-
-1. Download the `.pbix` file from this repository.
-2. Open it using Power BI Desktop (latest version recommended).
-3. Refresh data or modify connections as needed.
-4. Explore dashboards, slicers, and visuals interactively.
-
----
-
 ## 📎 Screenshots
 **Dashboard**
 <p align="center">
